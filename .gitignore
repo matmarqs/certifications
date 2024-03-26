@@ -1,0 +1,12 @@
+**/*.pdf
+**/*.aux
+**/*.bbl
+**/*.blg
+**/*.dvi
+**/*.fls
+**/*.log
+**/*.out
+**/*.toc
+**/*.listing
+**/*.fdb_latexmk
+**/_minted*
