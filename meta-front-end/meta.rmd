@@ -2,16 +2,13 @@
 title: Meta Front-End
 author: Mateus Marques
 output:
- pdf_document:
-  number_sections: true
+ html_document:
+  highlight: tango
 urlcolor: magenta
 ---
 
 Coursera course.
 
-\tableofcontents
-\newpage
-
 # Introduction
 
-ok
+watched Introduction/Get-Started/Intro-to-ProfCert videos 1, 2 and 3
