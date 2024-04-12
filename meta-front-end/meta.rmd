@@ -9,6 +9,20 @@ urlcolor: magenta
 
 Coursera course.
 
-# Introduction
+# 1. Introduction to Front-End Development
 
-watched Introduction/Get-Started/Intro-to-ProfCert videos 1, 2 and 3
+## 1.1. Get Started with Web Development
+
+### 1.1.3. Core Internet Technologies
+
+#### 1.1.3.8. Exercise: Examine a Web Page
+
+* Inspect the line in the HTML for the logo in the developer tools panel. The line begins with `<img`. We get `id=logo1`.
+
+#### 1.1.3.9. Exercise: Examine a Web Page
+
+* Edit the HTML document using the developer tools in your browser. Change the text of Our Menu to Little Lemon Menu. Very easy.
+
+## 1.2. Introduction to HTML and CSS
+
+Last watched video was `getting-started-with-html/05_linking-documents`.
