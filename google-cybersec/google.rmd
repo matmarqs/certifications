@@ -1,0 +1,45 @@
+---
+title: Google Cybersecurity
+author: Mateus Marques
+output:
+ html_document:
+  highlight: tango
+urlcolor: magenta
+---
+
+# Concepts
+
+Theoretical concepts studied with the help of ChatGPT. This is kind of like for the CompTIA Security+ exam.
+
+* Firewall: It controls incoming and outgoing network traffic. It is usually set up to filter traffic such as unauthorized access, malicious activity and DoS attacks with a set of rules that the network admin chose.
+On Linux it is usually set up by using the software `iptables`.
+
+* Proxy: It is a software that functions as an intermediary between an client and a server. The requests the client makes can be modified by the proxy before being sent to the server. And the outcoming responses can be filtered
+by the proxy. In short, proxies intercept incoming and outgoing HTTP requests between a client and a server.
+
+## Blue Team
+
+* SIEM: It stands for Security Information and Event Management. It is a system that involves collection and analysis of security events and data from various sources within an organization's environment.
+SIEM software provide monitoring, detection, and response capabilities to help identify and mitigate cybersecurity threats and incidents. The most popular SIEM software is `splunk`.
+
+* IDPS: Intrusion Detection and Prevention System. It monitors the network and system for malicious activity or policy violations and takes action to prevent or mitigate potential security incidents.
+The most popular IDPS software is `snort`.
+
+## Security frameworks
+
+They are sets of guidelines to ensure security best practices and standards.
+
+### NIST
+
+NIST is structured around five core functions:
+
+* Identify: understanding and managing cybersecurity risks such as assets, vulnerabilities, threats and potential impacts.
+
+* Protect: implementing security measures to protect against attacks. This includes encryption, access controls, security awareness, firewalls, etc.
+
+* Detect: this function focuses on implementing systems to monitor and detect unauthorized access, potential threats, cybersecurity breachs, and incident logs. This helps the organization to quickly and efficiently respond
+to cybersecurity events.
+
+* Respond: it orients how to respond to incidents in order to mitigate their impact and return normal operations as quickly as possible.
+
+* Recover: it focuses on how to recover from cybersecurity incidents. It includes minimization of financial loss, making post-incident analysis and learn from the mistakes that led to the incident. (Incident Response).
