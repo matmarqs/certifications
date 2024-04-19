@@ -17,6 +17,8 @@ On Linux it is usually set up by using the software `iptables`.
 * Proxy: It is a software that functions as an intermediary between an client and a server. The requests the client makes can be modified by the proxy before being sent to the server. And the outcoming responses can be filtered
 by the proxy. In short, proxies intercept incoming and outgoing HTTP requests between a client and a server.
 
+* Active Directory: It is a Microsoft service that functions as a database to manage network resources within an organization, such as users, computers, printers, and other network devices.
+
 ## Blue Team
 
 * SIEM: It stands for Security Information and Event Management. It is a system that involves collection and analysis of security events and data from various sources within an organization's environment.
