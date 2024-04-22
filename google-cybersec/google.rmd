@@ -7,6 +7,10 @@ output:
 urlcolor: magenta
 ---
 
+# Study plan
+
+The Security+ exam is really about theoretical concepts and definitions. Therefore, my approach will be kind of memorizing them with the help of [Anki](https://apps.ankiweb.net/).
+
 # Concepts
 
 Theoretical concepts studied with the help of ChatGPT. This is kind of like for the CompTIA Security+ exam.

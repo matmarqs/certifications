@@ -1,0 +1,12 @@
+---
+title: Comptia Security+
+author: Mateus Marques
+output:
+ html_document:
+  highlight: tango
+urlcolor: magenta
+---
+
+# Study plan
+
+The Security+ exam is really about theoretical concepts and definitions. Therefore, my approach will be kind of memorizing them with the help of [Anki](https://apps.ankiweb.net/).
