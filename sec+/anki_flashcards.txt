@@ -201,3 +201,83 @@ Security frameworks; Guidelines used for building plans to help mitigate risk an
 Security posture; An organization’s ability to manage its defense of critical assets and data and react to change
 
 Threat; Any circumstance or event that can negatively impact assets
+
+Chronicle; A cloud-native tool designed to retain, analyze, and search data
+
+Incident response; An organization’s quick attempt to identify an attack, contain the damage, and correct the effects of a security breach
+
+Log; A record of events that occur within an organization’s systems
+
+Metrics; Key technical attributes such as response time, availability, and failure rate, which are used to assess the performance of a software application
+
+Operating system (OS); The interface between computer hardware and the user
+
+Playbook; A manual that provides details about any operational action
+
+Security information and event management (SIEM); An application that collects and analyzes log data to monitor critical activities in an organization
+
+Security orchestration, automation, and response (SOAR); A collection of applications, tools, and workflows that use automation to respond to security events
+
+SIEM tools; A software platform that collects, analyzes, and correlates security data from various sources across your IT infrastructure that helps identify and respond to security threats in real-time, investigate security incidents, and comply with security regulations
+
+Splunk Cloud; A cloud-hosted tool used to collect, search, and monitor log data
+
+Splunk Enterprise; A self-hosted tool used to retain, analyze, and search an organization's log data to provide security information and alerts in real-time
+
+Basic Input/Output System (BIOS); A microchip that contains loading instructions for the computer and is prevalent in older systems
+
+Bootloader; A software program that boots the operating system
+
+Command-line interface (CLI); A text-based user interface that uses commands to interact with the computer
+
+Graphical user interface (GUI); A user interface that uses icons on the screen to manage different tasks on the computer
+
+Hardware; The physical components of a computer
+
+Legacy operating system; An operating system that is outdated but still being used
+
+Operating system (OS) ; The interface between computer hardware and the user
+
+Random Access Memory (RAM); A hardware component used for short-term memory
+
+Unified Extensible Firmware Interface (UEFI); A microchip that contains loading instructions for the computer and replaces BIOS on more modern systems
+
+User interface; A program that allows the user to control the functions of the operating system
+
+Virtual machine (VM) ; A virtual version of a physical computer
+
+Central Processing Unit (CPU); A computer’s main processor, which is used to perform general computing tasks on a computer
+
+Command; An instruction telling the computer to do something
+
+Digital forensics; The practice of collecting and analyzing data to determine what has happened after an attack
+
+Directory; A file that organizes where other files are stored
+
+Filesystem Hierarchy Standard (FHS); The component of the Linux OS that organizes data
+
+Hard drive; A hardware component used for long-term memory
+
+Internal hardware; The components required to run the computer
+
+Kernel; The component of the Linux OS that manages processes and memory
+
+Package; A piece of software that can be combined with other packages to form an application
+
+Package manager; A tool that helps users install, manage, and remove packages or applications
+
+Penetration test (pen test); A simulated attack that helps identify vulnerabilities in systems, networks, websites, applications, and processes
+
+Peripheral devices; Hardware components that are attached and controlled by the computer system
+
+Shell; The command-line interpreter
+
+Standard error; An error message returned by the OS through the shell
+
+Standard input; Information received by the OS via the command line
+
+Standard output; Information returned by the OS through the shell
+
+String data; Data consisting of an ordered sequence of characters
+
+User; The person interacting with a computer
