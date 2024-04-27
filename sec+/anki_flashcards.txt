@@ -1,7 +1,7 @@
 Personally identifiable information (PII); Information used to infer and individual's identity.
 Sensitive personally identifiable information (SPII); Specific type of PII that falls under stricter handling guideliness, such as passwords, e-mails, etc.
 Adversarial artificial intelligence (AI); A technique that manipulates artificial intelligence (AI) and machine learning (ML) technology to conduct attacks more efficiently.
-Business Email Compromise (BEC); A type of phishing attack where a threat actor impersonates a known source to obtain financial advantage.
+Business Email Compromise (BEC); A form of phishing attack where a criminal attempts to trick a senior executive (or budget holder) into transferring funds, or revealing sensitive information via e-mail
 CISSP; Certified Information Systems Security Professional is a globally recognized and highly sought-after information security certification, awarded by the International Information Systems Security Certification Consortium
 Computer virus; Malicious code written to interfere with computer operations and cause damage to data and software.
 Cryptographic attack; An attack that affects secure forms of communication between a sender and intended recipient.
@@ -13,9 +13,8 @@ Physical attack; A security incident that affects not only digital but also phys
 Physical social engineering; An attack in which a threat actor impersonates an employee, customer, or vendor to obtain unauthorized access to a physical location.
 Social media phishing; A type of attack where a threat actor collects detailed information about their target on social media sites before initiating the attack.
 Spear phishing; A malicious email attack targeting a specific user or group of users, appearing to originate from a trusted source.
-Supply-chain attack; An attack that targets systems, applications, hardware, and/or software to locate a vulnerability where malware can be deployed.
+Supply-chain attack; It is a type of cyberattack that targets a trusted third-party vendor who offers services or software vital to the supply chain.
 USB baiting; An attack in which a threat actor strategically leaves a malware USB stick for an employee to find and install to unknowingly infect a network.
-Virus; refer to “computer virus”
 Vishing; The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source
 Watering hole attack; A type of attack when a threat actor compromises a website frequently visited by a specific group of users
 Firewall; It controls incoming and outgoing network traffic. It is usually set up to filter traffic such as unauthorized access, malicious activity and DoS attacks with a set of rules that the network admin chose.  On Linux it is usually set up by using the software `iptables`.
@@ -55,20 +54,20 @@ Programming; A process that can be used to create a specific set of instructions
 Protecting and preserving evidence; The process of properly working with fragile and volatile digital evidence
 Security information and event management (SIEM); An application that collects and analyzes log data to monitor critical activities in an organization
 SQL (Structured Query Language); A query language used to create, interact with, and request information from a database
-Assess; The fifth step of the NIST RMF that means to determine if established controls are implemented correctly
-Authorize; The sixth step of the NIST RMF that refers to being accountable for the security and privacy risks that may exist in an organization
+NIST RMF Assess; The fifth step of the NIST RMF that means to determine if established controls are implemented correctly
+NIST RMF Authorize; The sixth step of the NIST RMF that refers to being accountable for the security and privacy risks that may exist in an organization
 Business continuity; An organization's ability to maintain their everyday productivity by establishing risk disaster recovery plans
-Categorize; The second step of the NIST RMF that is used to develop risk management processes and tasks
+NIST RMF Categorize; The second step of the NIST RMF that is used to develop risk management processes and tasks
 External threat; Anything outside the organization that has the potential to harm organizational assets
-Implement; The fourth step of the NIST RMF that means to implement security and privacy plans for an organization
+NIST RMF Implement; The fourth step of the NIST RMF that means to implement security and privacy plans for an organization
 Internal threat; A current or former employee, external vendor, or trusted partner who poses a security risk
-Monitor; The seventh step of the NIST RMF that means be aware of how systems are operating
-Prepare; The first step of the NIST RMF related to activities that are necessary to manage security and privacy risks before a breach occurs
+NIST RMF Monitor; The seventh step of the NIST RMF that means be aware of how systems are operating
+NIST RMF Prepare; The first step of the NIST RMF related to activities that are necessary to manage security and privacy risks before a breach occurs
 Ransomware; A malicious attack where threat actors encrypt an organization’s data and demand payment to restore access
 Risk; Anything that can impact the confidentiality, integrity, or availability of an asset
 Risk mitigation; The process of having the right procedures and rules in place to quickly reduce the impact of a risk like a breach
 Security posture; An organization’s ability to manage its defense of critical assets and data and react to change
-Select; The third step of the NIST RMF that means to choose, customize, and capture documentation of the controls that protect an organization
+NIST RMF Select; The third step of the NIST RMF that means to choose, customize, and capture documentation of the controls that protect an organization
 Shared responsibility; The idea that all individuals within an organization take an active role in lowering risk and maintaining both physical and virtual security
 Social engineering; A manipulation technique that exploits human error to gain private information, access, or valuables
 Vulnerability; A weakness that can be exploited by a threat
@@ -191,3 +190,4 @@ Transmission Control Protocol (TCP); An internet communication protocol that all
 Uncontrolled zone; The portion of the network outside the organization
 Virtual private network (VPN); A network security service that changes your public IP address and masks your virtual location so that you can keep your data private when you are using a public network like the internet
 Wi-Fi Protected Access (WPA); A wireless security protocol for devices to connect to the internet
+NIST RMF; National Institute of Standards and Technology (NIST) Risk Management Framework (RMF)
