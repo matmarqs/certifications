@@ -7,15 +7,34 @@
                 border: 1px solid black;
                 padding: 2px;
             }
+            table, th, td {
+                border: 1px solid black;
+                border-collapse: collapse;
+            }
         </style>
     </head>
     <body>
         <h1>Our Menu</h1>
         <h2>Falafel</h2>
             <p>Chickpea, herbs and spices.</p>
+            <img src="fig/falafel.jpg" width="240" height="135" alt="A falafel">
         <h2>Pasta Salad</h2>
             <p>Lettuce, vegetables and <strong>mozzarella</strong>.</p>
-            <a href="location.html">Our Location</a>
+            <img src="fig/salad.jpg" width="240" height="135" alt="A pasta salad">
+        <table>
+            <tr>
+                <th>Dish</th>
+                <th>Price</th>
+            </tr>
+            <tr>
+                <td>Falafel</td>
+                <td>$10.00</td>
+            </tr>
+            <tr>
+                <td>Pasta Salad</td>
+                <td>$12.00</td>
+            </tr>
+        </table>
         <h2>Chicken and rice</h2>
             <p>Garlic and <b>Onion</b> with rice, and then cook the <em>chicken</em>.</p>
         <h3>So this is <i>itallic</i>.</h3>
@@ -24,6 +43,7 @@
             <li>Yakisoba Pasta</li>
             <li>Shoyu</li>
             <li>Vegetables</li>
+            <a href="location.html">Our Location</a>
             <li>Meat or chicken</li>
             <li>Sake</li>
             <li>Ginger</li>
@@ -40,5 +60,32 @@
             <p>This is a paragraph inside a <div>div</div></p>
         </div>
         <!-- The password is P455w0rd! -->
+        <form method="POST">
+            <label for="username">Username:</label><br>
+            <input type="text" name="username">
+
+            <label for="password">Password:</label><br>
+            <input type="password"/>
+            <input type="submit"/>
+            <br>
+            <br>
+            <br>
+            <input type="checkbox" name="dog" value="Dog"/>
+            <label for="dog"> I own a dog</label><br>
+            <input type="checkbox" name="cat" value="Cat"/>
+            <label for="cat"> I own a cat</label><br>
+            <br>
+            <br>
+            <br>
+        </form>
+        <form method="POST">
+            <input type="radio" name="right" value="Right"/>
+            <label for="right"> I own a right</label><br>
+            <input type="radio" name="left" value="Left"/>
+            <label for="left"> I own a left</label><br>
+        </form>
     </body>
+    <!--
+    input tags: text, passwords, checkbox, radio, textarea, select
+    -->
 </html>

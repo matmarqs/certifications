@@ -25,4 +25,4 @@ Coursera course.
 
 ## 1.2. Introduction to HTML and CSS
 
-Last watched video was `getting-started-with-html/05_linking-documents`.
+Last watched video was `getting-started-with-html/08-what-are-forms`.
