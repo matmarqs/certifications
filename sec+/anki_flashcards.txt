@@ -183,8 +183,8 @@ Secure File Transfer Protocol (SFTP); A secure protocol used to transfer files f
 Secure shell (SSH); A security protocol used to create a shell with a remote system
 Security zone; A segment of a company’s network that protects the internal network from the internet
 Simple Network Management Protocol (SNMP); A network protocol used for monitoring and managing devices on a network
-Stateful; A class of firewall that keeps track of information passing through it and proactively filters out threats
-Stateless; A class of firewall that operates based on predefined rules and does not keep track of information from data packets
+Stateful Firewall; A class of firewall that keeps track of information passing through it and proactively filters out threats
+Stateless Firewall; A class of firewall that operates based on predefined rules and does not keep track of information from data packets
 Subnetting; The subdivision of a network into logical groups called subnets
 Transmission Control Protocol (TCP); An internet communication protocol that allows two devices to form a connection and stream data
 Uncontrolled zone; The portion of the network outside the organization
