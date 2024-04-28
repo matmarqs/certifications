@@ -194,3 +194,14 @@ Ping of death; A type of DoS attack caused when a hacker pings a system by sendi
 Replay attack; A network attack performed when a malicious actor intercepts a data packet in transit and delays it or repeats it at another time
 Smurf attack; A network attack performed when an attacker sniffs an authorized user’s IP address and floods it with ICMP packets
 Synchronize (SYN) flood attack; A type of DoS attack that simulates a TCP/IP connection and floods a server with SYN packets
+Baseline configuration (baseline image); A documented set of specifications within a system that is used as a basis for future builds, releases, and updates
+Multi-factor authentication (MFA); A security measure which requires a user to verify their identity in two or more ways to access a system or network
+Network log analysis; The process of examining network logs to identify events of interest
+Patch update; A software and operating system update that addresses security vulnerabilities within a program or product
+Penetration testing (pen test); A simulated attack that helps identify vulnerabilities in systems, networks, websites, applications, and processes
+Security hardening; The process of strengthening a system to reduce its vulnerabilities and attack surface
+World-writable file; A file that can be altered by anyone in the world
+Primary key; A column where every row has a unique entry
+Query; A request for data from a database table or a combination of tables
+Relational database; A structured database containing tables that are related to each other
+Foreign key; A column in a table that is a primary key in another table
