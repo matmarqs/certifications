@@ -27,7 +27,7 @@ NIST Identify; understanding and managing cybersecurity risks such as assets, vu
 NIST Protect; implementing security measures to protect against attacks. This includes encryption, access controls, security awareness, firewalls, etc.
 NIST Detect; this function focuses on implementing systems to monitor and detect unauthorized access, potential threats, cybersecurity breachs, and incident logs. This helps the organization to quickly and efficiently respond to cybersecurity events.
 NIST Respond; it orients how to respond to incidents in order to mitigate their impact and return normal operations as quickly as possible.
-NIST Recover; it focuses on how to recover from cybersecurity incidents. It includes minimization of financial loss, making post-incident analysis and learn from the mistakes that led to the incident. (Incident Response).
+NIST Recover; it focuses on how to recover from cybersecurity incidents. It includes minimization of financial loss, making post-incident analysis and learn from the mistakes that led to the incident.
 Asset; An item perceived as having value to an organization
 Availability; The idea that data is accessible to those who are authorized to access it
 Compliance; The process of adhering to internal standards and external regulations
@@ -75,15 +75,10 @@ Attack vectors; The pathways attackers use to penetrate security defenses
 Authentication; The process of verifying who someone is
 Authorization; The concept of granting access to specific resources in a system
 Biometrics; The unique physical characteristics that can be used to verify a person’s identity
-Detect; A NIST core function related to identifying potential security incidents and improving monitoring capabilities to increase the speed and efficiency of detections
 Encryption; The process of converting data from a readable format to an encoded format
-Identify; A NIST core function related to management of cybersecurity risk and its effect on an organization’s people and assets
 National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF); A voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk
 National Institute of Standards and Technology (NIST) Special Publication (S.P.) 800-53; A unified framework for protecting the security of information systems within the U.S. federal government
 Open Web Application Security Project/Open Worldwide Application Security Project (OWASP); A non-profit organization focused on improving software security
-Protect; A NIST core function used to protect an organization through the implementation of policies, procedures, training, and tools that help mitigate cybersecurity threats
-Recover; A NIST core function related to returning affected systems back to normal operation
-Respond; A NIST core function related to making sure that the proper procedures are used to contain, neutralize, and analyze security incidents, and implement improvements to the security process
 Security audit; A review of an organization's security controls, policies, and procedures against a set of expectations
 Threat; Any circumstance or event that can negatively impact assets
 Chronicle; A cloud-native tool designed to retain, analyze, and search data
