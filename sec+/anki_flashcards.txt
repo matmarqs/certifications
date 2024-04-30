@@ -125,10 +125,10 @@ OSI Transport Layer; Layer 4. The Transport layer ensures reliable end-to-end co
 OSI Network Layer; Layer 3. The Network layer is responsible for logical addressing, routing, and packet forwarding across multiple networks. It uses IP (Internet Protocol) addresses to route packets between source and destination devices. Examples of protocols include IP, ICMP (Internet Control Message Protocol), and routing protocols like OSPF and BGP.
 OSI Data Link Layer; Layer 2. The Data Link layer provides error-free transmission of data frames between devices on the same local network segment. It handles framing, addressing, and error detection, ensuring reliable point-to-point and point-to-multipoint communication. Ethernet and Wi-Fi are examples of Data Link layer protocols.
 OSI Physical Layer; Layer 1. The Physical layer deals with the physical transmission of data over the network media. It defines the electrical, mechanical, and functional specifications for connecting devices to the network, including cables, connectors, and network interface hardware. Examples include Ethernet cables, optical fibers, and wireless radio frequencies.
-TCP/IP Application Layer; Layer 4. Responsible for providing network services directly to user applications. Protocols: HTTP, FTP, SMTP, DNS, Telnet. Corresponds to Layers 5, 6, and 7 of the OSI model (Session, Presentation, and Application layers).
-TCP/IP Transport Layer; Layer 3. Manages end-to-end communication between applications on different devices. Provides reliable data delivery, flow control, and error recovery. Protocols: TCP, UDP. Corresponds to Layer 4 (Transport layer) of the OSI model.
-TCP/IP Internet Layer; Layer 2. Handles addressing, routing, and packet forwarding between devices across different networks. Uses IP for logical addressing. Protocols: IP (IPv4 and IPv6), ICMP. Corresponds to Layer 3 (Network layer) of the OSI model.
-TCP/IP Link (Network Access) Layer; Layer 1. Deals with the physical transmission of data within a single network segment (LAN). Defines protocols for accessing the physical network media, addressing devices, and error detection. Protocols: Ethernet, Wi-Fi (802.11), PPP (Point-to-Point Protocol). Corresponds to Layers 1 and 2 (Physical and Data Link layers) of the OSI model.
+TCP/IP Application Layer; Layer 4. Responsible for providing network services directly to user applications. Protocols; HTTP, FTP, SMTP, DNS, Telnet. Corresponds to Layers 5, 6, and 7 of the OSI model (Session, Presentation, and Application layers).
+TCP/IP Transport Layer; Layer 3. Manages end-to-end communication between applications on different devices. Provides reliable data delivery, flow control, and error recovery. Protocols; TCP, UDP. Corresponds to Layer 4 (Transport layer) of the OSI model.
+TCP/IP Internet Layer; Layer 2. Handles addressing, routing, and packet forwarding between devices across different networks. Uses IP for logical addressing. Protocols; IP (IPv4 and IPv6), ICMP. Corresponds to Layer 3 (Network layer) of the OSI model.
+TCP/IP Link (Network Access) Layer; Layer 1. Deals with the physical transmission of data within a single network segment (LAN). Defines protocols for accessing the physical network media, addressing devices, and error detection. Protocols; Ethernet, Wi-Fi (802.11), PPP (Point-to-Point Protocol). Corresponds to Layers 1 and 2 (Physical and Data Link layers) of the OSI model.
 Switch; Connects devices within the same network (LAN) and operates at Layer 2 (Data Link layer).
 Router; Connects networks together, forwards data between them based on IP addresses, and operates at Layer 3 (Network layer).
 Modem; Converts digital data into analog signals for transmission over communication lines and vice versa, enabling connectivity to an ISP for internet access.
@@ -200,3 +200,48 @@ Primary key; A column where every row has a unique entry
 Query; A request for data from a database table or a combination of tables
 Relational database; A structured database containing tables that are related to each other
 Foreign key; A column in a table that is a primary key in another table
+Asset classification; The practice of labeling assets based on sensitivity and importance to an organization
+Asset inventory; A catalog of assets that need to be protected
+Asset management; The process of tracking assets and the risks that affect them
+Data at rest; Data not currently being accessed
+Data in transit; Data traveling from one point to another
+Data in use; Data being accessed by one or more users
+Information security (InfoSec); The practice of keeping data in all states away from unauthorized users
+Policy; A set of rules that reduce risk and protect information
+Procedures; Step-by-step instructions to perform a specific security task
+Regulations; Rules set by a government or other authority to control the way something is done
+Standards; References that inform how to set policies
+Access controls; Security controls that manage access, authorization, and accountability of information
+Algorithm; A set of rules used to solve a problem
+Application programming interface (API) token; A small block of encrypted code that contains information about a user
+Asymmetric encryption; The use of a public and private key pair for encryption and decryption of data
+Basic auth; The technology used to establish a user’s request to access a server
+Bit; The smallest unit of data measurement on a computer
+Brute force attack; The trial and error process of discovering private information
+Cipher; An algorithm that encrypts information
+Cryptographic key; A mechanism that decrypts ciphertext
+Cryptography; The process of transforming information into a form that unintended readers can’t understand
+Data custodian; Anyone or anything that’s responsible for the safe handling, transport, and storage of information
+Data owner; The person that decides who can access, edit, use, or destroy their information
+Digital certificate; A file that verifies the identity of a public key holder
+Hash collision; An instance when different inputs produce the same hash value
+Hash function; An algorithm that produces a code that can’t be decrypted
+Hash table; A data structure that's used to store and reference hash values
+Identity and access management (IAM); A collection of processes and technologies that helps organizations manage digital identities in their environment
+Information privacy; The protection of unauthorized access and distribution of data
+Non-repudiation; The concept that the authenticity of information can’t be denied
+OAuth; An open-standard authorization protocol that shares designated access between applications
+Payment Card Industry Data Security Standards (PCI DSS); A set of security standards formed by major organizations in the financial industry
+Principle of least privilege; The concept of granting only the minimal access and authorization required to complete a task or function
+Public key infrastructure (PKI); An encryption framework that secures the exchange of online information
+Rainbow table; A file of pre-generated hash values and their associated plaintext
+Salting; An additional safeguard that’s used to strengthen hash functions
+Security assessment; A check to determine how resilient current security implementations are against threats
+Separation of duties; The principle that users should not be given levels of authorization that would allow them to misuse a system
+Session; A sequence of network HTTP basic auth requests and responses associated with the same user
+Session cookie; A token that websites use to validate a session and determine how long that session should last
+Session hijacking; An event when attackers obtain a legitimate user’s session ID
+Session ID; A unique token that identifies a user and their device while accessing a system
+Single Sign-On (SSO); A technology that combines several different logins into one
+Symmetric encryption; The use of a single secret key to exchange information
+User provisioning; The process of creating and maintaining a user's digital identity
