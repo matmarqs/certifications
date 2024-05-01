@@ -51,14 +51,12 @@ Log; A record of events that occur within an organization’s systems
 Network protocol analyzer (packet sniffer); A tool designed to capture and analyze data traffic within a network
 Order of volatility; A sequence outlining the order of data that must be preserved from first to last
 Programming; A process that can be used to create a specific set of instructions for a computer to execute tasks
-Protecting and preserving evidence; The process of properly working with fragile and volatile digital evidence
 Security information and event management (SIEM); An application that collects and analyzes log data to monitor critical activities in an organization
 SQL (Structured Query Language); A query language used to create, interact with, and request information from a database
 NIST RMF Assess; The fifth step of the NIST RMF that means to determine if established controls are implemented correctly
 NIST RMF Authorize; The sixth step of the NIST RMF that refers to being accountable for the security and privacy risks that may exist in an organization
 Business continuity; An organization's ability to maintain their everyday productivity by establishing risk disaster recovery plans
 NIST RMF Categorize; The second step of the NIST RMF that is used to develop risk management processes and tasks
-External threat; Anything outside the organization that has the potential to harm organizational assets
 NIST RMF Implement; The fourth step of the NIST RMF that means to implement security and privacy plans for an organization
 Internal threat; A current or former employee, external vendor, or trusted partner who poses a security risk
 NIST RMF Monitor; The seventh step of the NIST RMF that means be aware of how systems are operating
@@ -92,7 +90,6 @@ Splunk Cloud; A cloud-hosted tool used to collect, search, and monitor log data
 Splunk Enterprise; A self-hosted tool used to retain, analyze, and search an organization's log data to provide security information and alerts in real-time
 Basic Input/Output System (BIOS); A microchip that contains loading instructions for the computer and is prevalent in older systems
 Bootloader; A software program that boots the operating system
-Command-line interface (CLI); A text-based user interface that uses commands to interact with the computer
 Graphical user interface (GUI); A user interface that uses icons on the screen to manage different tasks on the computer
 Hardware; The physical components of a computer
 Legacy operating system; An operating system that is outdated but still being used
@@ -101,14 +98,10 @@ Unified Extensible Firmware Interface (UEFI); A microchip that contains loading 
 User interface; A program that allows the user to control the functions of the operating system
 Virtual machine (VM); A virtual version of a physical computer
 Central Processing Unit (CPU); A computer’s main processor, which is used to perform general computing tasks on a computer
-Command; An instruction telling the computer to do something
 Digital forensics; The practice of collecting and analyzing data to determine what has happened after an attack
-Directory; A file that organizes where other files are stored
-Filesystem Hierarchy Standard (FHS); The component of the Linux OS that organizes data
 Hard drive; A hardware component used for long-term memory
 Internal hardware; The components required to run the computer
 Kernel; The component of the Linux OS that manages processes and memory
-Package; A piece of software that can be combined with other packages to form an application
 Package manager; A tool that helps users install, manage, and remove packages or applications
 Penetration test (pen test); A simulated attack that helps identify vulnerabilities in systems, networks, websites, applications, and processes
 Peripheral devices; Hardware components that are attached and controlled by the computer system
