@@ -327,3 +327,17 @@ Threat hunting; The proactive search for threats on a network
 Threat intelligence; Evidence-based threat information that provides context about existing or emerging threats
 Triage; The prioritizing of incidents according to their level of importance or urgency
 VirusTotal; A service that allows anyone to analyze suspicious files, domains, URLs, and IP addresses for malicious content
+Anomaly-based analysis; A detection method that identifies abnormal behavior
+Common Event Format (CEF); A log format that uses key-value pairs to structure data and identify fields and their corresponding values
+Host-based intrusion detection system (HIDS); An application that monitors the activity of the host on which it’s installed
+Log analysis; The process of examining logs to identify events of interest
+Log management; The process of collecting, storing, analyzing, and disposing of log data
+Logging; The recording of events occurring on computer systems and networks
+Network-based intrusion detection system (NIDS); An application that collects and monitors network traffic and network data
+Search Processing Language (SPL); Splunk’s query language
+Signature; A pattern that is associated with malicious activity
+Signature analysis; A detection method used to find events interest
+Suricata; An open-source intrusion detection system, intrusion prevention system, and network analysis tool
+Telemetry; The collection and transmission of data for analysis
+Wildcard character; A special character that can be substituted with any other character
+YARA-L; A computer language used to create rules for searching through ingested log data
