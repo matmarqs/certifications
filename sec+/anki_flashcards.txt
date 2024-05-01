@@ -291,3 +291,11 @@ Trojan horse; Malware that looks like a legitimate file or program
 Watering hole attack ; A type of attack when a threat actor compromises a website frequently visited by a specific group of users
 Whaling; A category of spear phishing attempts that are aimed at high-ranking executives in an organization
 Web-based exploits; Malicious code or behavior that’s used to take advantage of coding flaws in a web application
+Computer security incident response teams (CSIRT); A specialized group of security professionals that are trained in incident management and response
+Endpoint detection and response (EDR); An application that monitors an endpoint for malicious activity
+Incident; An occurrence that actually or imminently jeopardizes, without lawful authority, the confidentiality, integrity, or availability of information or an information system; or constitutes a violation or imminent threat of violation of law, security policies, security procedures, or acceptable use policies
+Incident handler’s journal; A form of documentation used in incident response
+Incident response plan; A document that outlines the procedures to take in each step of incident response
+Intrusion prevention system (IPS); An application that monitors system activity for intrusive activity and takes action to stop the activity
+National Institute of Standards and Technology (NIST) Incident Response Lifecycle; A framework for incident response consisting of four phases; Preparation; Detection and Analysis; Containment, Eradication, and Recovery; and Post-incident activity
+Security operations center (SOC); An organizational unit dedicated to monitoring networks, systems, and devices for security threats or attacks
