@@ -245,3 +245,20 @@ Session ID; A unique token that identifies a user and their device while accessi
 Single Sign-On (SSO); A technology that combines several different logins into one
 Symmetric encryption; The use of a single secret key to exchange information
 User provisioning; The process of creating and maintaining a user's digital identity
+Advanced persistent threat (APT); An instance when a threat actor maintains unauthorized access to a system for an extended period of time
+Attack surface; All the potential vulnerabilities that a threat actor could exploit
+Attack tree; A diagram that maps threats to assets
+Attack vector; The pathways attackers use to penetrate security defenses
+Bug bounty; Programs that encourage freelance hackers to find and report vulnerabilities
+Common Vulnerabilities and Exposures (CVE®) list; An openly accessible dictionary of known vulnerabilities and exposures
+Common Vulnerability Scoring System (CVSS); A measurement system that scores the severity of a vulnerability
+CVE Numbering Authority (CNA); An organization that volunteers to analyze and distribute information on eligible CVEs
+Defense in depth; A layered approach to vulnerability management that reduces risk
+Exploit; A way of taking advantage of a vulnerability
+Exposure; A mistake that can be exploited by a threat
+MITRE; A collection of non-profit research and development centers
+Threat actor; Any person or group who presents a security risk
+Vulnerability assessment; The internal review process of a company’s security systems
+Vulnerability management; The process of finding and patching vulnerabilities
+Vulnerability scanner; Software that automatically compares existing common vulnerabilities and exposures against the technologies on the network
+Zero-day; An exploit that was previously unknown
