@@ -30,10 +30,6 @@ void push(stack *st, segment seg) {
     st->seg[st->top] = seg;
 }
 
-int one_element(stack *st) {
-    return st->top == 0;
-}
-
 segment pop(stack *st) {
     return st->seg[st->top--];
 }
@@ -63,11 +59,11 @@ void solve(stack *st) {
         else {  // they do not intersect
             x[n_points++] = fst->r;  // just append the some valid coordinate
         }
-        st->top--;  // decrement the top
+        pop(st);  // decrement the top
     }
     // when leaving the while loop, there is only one element `snd`, and st->top == 0.
     x[n_points++] = snd->r;
-    st->top--;  // now the stack is empty (st->top == -1)
+    pop(st);    // now the stack is empty (st->top == -1)
 
     // now we print the results
     printf("%d\n", n_points);
