@@ -19,5 +19,6 @@ int main() {
     int *sums = sum_array(array, N);
     printf("%d\n", range(1, 4, sums));
     printf("%d\n", range(2, 6, sums));
+    free(sums);
     return 0;
 }
